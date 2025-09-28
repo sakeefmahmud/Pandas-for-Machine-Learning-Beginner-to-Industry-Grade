@@ -1,5 +1,5 @@
 
-# **Pandas for Machine Learning – Beginner to Industry Grade**
+# **Pandas for Machine Learning – Beginner**
 
 Welcome to **Pandas for Machine Learning**, a step-by-step guide designed to help new learners master the **Pandas library** using **real-world datasets**.
 This repository walks you through **data manipulation, cleaning, feature engineering**, and **preparing datasets for machine learning models**, just like in real industry projects.
